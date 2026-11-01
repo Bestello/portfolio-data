@@ -58,8 +58,7 @@
       "description": "[In the Works] Technical breakdown of sniffing Nothing & CMF audio protocol packets, building a lightweight Python daemon, and designing a native QML companion widget.",
       "date": "2026-03-01",
       "tags": ["IN_THE_WORKS", "BLUETOOTH", "LINUX"],
-      "sourceType": "json",
-      "body": "## Reverse-Engineering Nothing Earbuds: Bluetooth RFCOMM & Dank Material Shell\n\n> **Status:** Article in the works / draft in progress.\n\n### Overview\nThis chronicle will document the end-to-end process of sniffing Nothing X protocol commands over RFCOMM, mapping battery state updates and active noise cancellation (ANC) toggles, and integrating them into Dank Material Shell using Python and Quickshell QML.\n\n*Check back soon for the full technical breakdown and packet dumps.*"
+      "markdownUrl": "posts/dms-nothingx.md"
     },
     {
       "id": "b2",
@@ -67,8 +66,7 @@
       "description": "[In the Works] Mathematical modeling, Raspberry Pi 5 edge telemetry integration, and Random Forest load forecasting for autonomous microgrid power optimization.",
       "date": "2026-02-15",
       "tags": ["IN_THE_WORKS", "MPC", "EMBEDDED"],
-      "sourceType": "json",
-      "body": "## Adaptive Nanogrid Energy Scheduling using Model Predictive Control\n\n> **Status:** Article in the works / draft in progress.\n\n### Overview\nA detailed look into real-time microgrid power scheduling using Model Predictive Control (MPC) and edge computing on Raspberry Pi 5. Discussing mathematical formulations, state-space models, and load-shedding performance during high-demand events.\n\n*Full writeup arriving soon.*"
+      "markdownUrl": "posts/nanogrid-mpc.md"
     },
     {
       "id": "b3",
@@ -76,17 +74,15 @@
       "description": "[In the Works] Architectural deep-dive into creating a unified cross-platform desktop/mobile LLM interface with Python, local inference engines, and reactive UI states.",
       "date": "2026-02-01",
       "tags": ["IN_THE_WORKS", "LLM", "PYTHON"],
-      "sourceType": "json",
-      "body": "## Building llam: Cross-Platform Generative AI Chat with Python & Flet\n\n> **Status:** Article in the works / draft in progress.\n\n### Overview\nHow to design and ship a native-feeling generative AI chat client that runs seamlessly across desktop and mobile devices using Python and Flet. Covers streaming token responses, memory management, and local model integration.\n\n*Draft currently in progress.*"
+      "markdownUrl": "posts/llam.md"
     },
     {
       "id": "b4",
-      "title": "Comming SOON",
+      "title": "Hardware Prototyping: Fault Current Limiting Circuit Breaker (FCLCB)",
       "description": "[In the Works] Circuit design, zero-crossing detection circuits, TRIAC phase-angle firing logic, and real-time current telemetry for sub-cycle fault mitigation.",
       "date": "2026-01-20",
       "tags": ["IN_THE_WORKS", "HARDWARE", "POWER"],
-      "sourceType": "json",
-      "body": "## Hardware Prototyping: Fault Current Limiting Circuit Breaker (FCLCB)\n\n> **Status:** Article in the works / draft in progress.\n\n### Overview\nDocumenting the design and verification of a low-cost, solid-state fault current limiter. Covering zero-crossing detector circuitry, ACS712 current sensing, Arduino firing pulses, and experimental bench test results.\n\n*Full engineering log coming soon.*"
+      "markdownUrl": "posts/fclcb.md"
     }
   ]
 }
