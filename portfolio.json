@@ -62,7 +62,7 @@
     },
     {
       "id": "b2",
-      "title": "Adaptive Nanogrid Energy Scheduling using Model Predictive Control",
+      "title": "COMMING SOON",
       "description": "[In the Works] Mathematical modeling, Raspberry Pi 5 edge telemetry integration, and Random Forest load forecasting for autonomous microgrid power optimization.",
       "date": "2026-02-15",
       "tags": ["IN_THE_WORKS", "MPC", "EMBEDDED"],
@@ -70,7 +70,7 @@
     },
     {
       "id": "b3",
-      "title": "Building llam: Cross-Platform Generative AI Chat with Python & Flet",
+      "title": "COMMING SOON",
       "description": "[In the Works] Architectural deep-dive into creating a unified cross-platform desktop/mobile LLM interface with Python, local inference engines, and reactive UI states.",
       "date": "2026-02-01",
       "tags": ["IN_THE_WORKS", "LLM", "PYTHON"],
