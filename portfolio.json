@@ -81,7 +81,7 @@
     },
     {
       "id": "b4",
-      "title": "Hardware Prototyping: Fault Current Limiting Circuit Breaker (FCLCB)",
+      "title": "Comming SOON",
       "description": "[In the Works] Circuit design, zero-crossing detection circuits, TRIAC phase-angle firing logic, and real-time current telemetry for sub-cycle fault mitigation.",
       "date": "2026-01-20",
       "tags": ["IN_THE_WORKS", "HARDWARE", "POWER"],
