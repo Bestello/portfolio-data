@@ -1,4 +1,4 @@
-# Adaptive Nanogrid Energy Scheduling using Model Predictive Control
+# COMMING SOON
 
 > **Status:** Article in the works / draft in progress.
 
