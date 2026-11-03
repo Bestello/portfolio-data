@@ -197,3 +197,25 @@ You can fall back to raw HTML if you need formatting not supported by standard M
 </details>
 
 <p align="center" style="color: blue;">This text is centered and blue using HTML inline styles.</p>
+
+## 14. Mermaid Chart
+```mermaid
+graph LR
+  ZeroCross[Zero-Crossing Detector] -->|Interrupt| Arduino[ATmega328P]
+  CurrentSense[ACS712 Sensor] -->|ADC Telemetry| Arduino
+  Arduino -->|Phase Pulse| TRIAC[BTA41 TRIAC]
+  TRIAC --> Load[Fault Current Suppressed]
+```
+
+## 15. Interactive Data chart
+```chart
+{
+  "type": "line",
+  "title": "Fault Current Limitation vs Traditional Breaker",
+  "labels": ["0ms", "5ms", "10ms", "15ms", "20ms", "25ms"],
+  "datasets": [
+    { "label": "FCLCB Active Mitigated (A)", "data": [0, 4.2, 5.1, 4.8, 1.2, 0] },
+    { "label": "Uncontrolled Fault Surge (A)", "data": [0, 18.5, 42.1, 38.0, 22.4, 0] }
+  ]
+}
+```
