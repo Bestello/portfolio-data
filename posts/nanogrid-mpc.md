@@ -87,7 +87,7 @@ You can create inline links or reference links.
 
 Images use a syntax similar to links, prefixed with an exclamation mark `!`.
 
-![Alt text for image | 420px](https://thispersondoesnotexist.com/random-person.jpeg)
+![| 250px](https://thispersondoesnotexist.com/random-person.jpeg)
 
 
 ---
